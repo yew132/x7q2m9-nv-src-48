@@ -1,0 +1,21 @@
+{
+  "id": "miruro",
+  "name": "Miruro",
+  "description": "Miruro anime streams for Nuvio",
+  "version": "1.0.0",
+  "author": "Custom",
+  "supportedTypes": [
+    "tv"
+  ],
+  "filename": "providers/miruro.js",
+  "enabled": true,
+  "contentLanguage": [
+    "en"
+  ],
+  "formats": [
+    "m3u8",
+    "mp4"
+  ],
+  "limited": false,
+  "supportsExternalPlayer": true
+}
