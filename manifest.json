@@ -3,7 +3,7 @@
   "name": "Miruro",
   "description": "Miruro streaming provider",
   "version": "1.0.0",
-  "author": "Xavier",
+  "author": "blah",
   "supportedTypes": ["movie", "tv"],
   "filename": "providers/miruro.js",
   "enabled": true
